@@ -68,7 +68,7 @@ Below are inputs(grayscale) and outputs(colored) of the trained generator using 
 
 Also, as I said before, I tested one grayscale image with 25 different noises. Here, I prepared two different grayscale images - one existing in training dataset and one not existing in training dataset(The character I used for not existing is "Taylor" from BrownDust, a mobile game that I'm currently playing):
 
-또한 제가 언급한대로 하나의 흑백 이미지를 25가지의 다른 noise들을 사용하여 채색하는 실험을 진행하였습니다. 본 실험에서는 두 장의 다른 흑백 이미지를 사용했는데요, 하나는 training set에 존재하는 흑백이미지 이고, 다른 하나는 제가 현재 플레이중인 BrownDust 라는 게임 속의 캐릭터인 의 이미지입니다.
+또한 제가 언급한대로 하나의 흑백 이미지를 25가지의 다른 noise들을 사용하여 채색하는 실험을 진행하였습니다. 본 실험에서는 두 장의 다른 흑백 이미지를 사용했는데요, 하나는 training set에 존재하는 흑백이미지고, 다른 하나는 제가 현재 플레이중인 BrownDust라는 게임의 캐릭터인 "테일러"의 이미지입니다.
 
 <h5>ONE IN TRAINING DATASET</h5>
 
