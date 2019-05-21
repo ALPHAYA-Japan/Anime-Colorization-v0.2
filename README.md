@@ -72,7 +72,7 @@ Also, as I said before, I tested one grayscale image with 25 different noises. H
 
 <h5>ONE IN TRAINING DATASET</h5>
 
-<h6>ORIGNAL</h6>
+<h6>ORIGINAL</h6>
 
 ![original_within](https://user-images.githubusercontent.com/43874313/58007535-72b54700-7b25-11e9-8dc1-f12614a7cb72.png)
 
@@ -88,7 +88,7 @@ Also, as I said before, I tested one grayscale image with 25 different noises. H
 
 <h5>ONE NOT IN TRAINING DATASET</h5>
 
-<h6>ORIGNAL</h6>
+<h6>ORIGINAL</h6>
 
 ![original_notin](https://user-images.githubusercontent.com/43874313/58007581-8d87bb80-7b25-11e9-8195-383cfed89e79.png)
 
@@ -150,7 +150,7 @@ Also, same as what I did for GAN, I tested one grayscale image with 25 different
 
 <h5>ONE IN TRAINING DATASET</h5>
 
-<h6>ORIGNAL</h6>
+<h6>ORIGINAL</h6>
 
 ![original_within](https://user-images.githubusercontent.com/43874313/58016229-098aff00-7b38-11e9-9723-e769af09086a.png)
 
@@ -166,7 +166,7 @@ Also, same as what I did for GAN, I tested one grayscale image with 25 different
 
 <h5>ONE NOT IN TRAINING DATASET</h5>
 
-<h6>ORIGNAL</h6>
+<h6>ORIGINAL</h6>
 
 ![original_notin](https://user-images.githubusercontent.com/43874313/58016262-20315600-7b38-11e9-9b5e-935a6f523f7d.png)
 
